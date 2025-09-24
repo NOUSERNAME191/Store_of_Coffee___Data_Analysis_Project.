@@ -80,3 +80,10 @@ Recommendations:
 •You can remove the lowest sizes and provide extra-large sizes.
 
 And after that, increase the price with the intention of not overpricing, or you may lose many of your customers.
+
+
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
+
